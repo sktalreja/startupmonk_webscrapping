@@ -1,2 +1,2 @@
 # startupmonk_webscrapping
-Web Scrapping for Start up Monk
+This project is to extract the data for StartupMonk (A startup working to make a community of startup and entrepreneurs)
